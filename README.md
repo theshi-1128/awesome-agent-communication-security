@@ -5,9 +5,6 @@ A curated collection of research and techniques on securing agent communication 
 </b></p>
 
 <p align="center">
-  <a href="https://xuzhenhua55.github.io/awesome-llm-copyright-protection/">
-    <img src="https://img.shields.io/badge/📑-Survey_Paper-blue" alt="Survey Paper"/>
-  </a>
   <a href="https://github.com/Xuzhenhua55/awesome-llm-copyright-protection">
     <img src="https://awesome.re/badge.svg" alt="Awesome"/>
   </a>
