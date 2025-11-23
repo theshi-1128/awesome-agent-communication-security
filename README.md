@@ -121,8 +121,6 @@ Feel free to <a href="https://github.com/Xuzhenhua55/awesome-llm-copyright-prote
 
 <hr/>
 
-<hr/>
-
 
 <h2>📖 Citation</h2>
 
