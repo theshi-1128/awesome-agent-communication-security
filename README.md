@@ -93,28 +93,19 @@ We welcome contributions! Feel free to <a href="https://github.com/theshi-1128/a
 
 <h2>📖 Citation</h2>
 
-<p>If you find our survey useful for your research, please consider citing:</p>
-
-<details>
-<summary><b>BibTeX</b></summary>
+<p>If you find this work useful in your own research, please feel free to leave a star⭐️ and cite our paper:
 
 ```bibtex
-@misc{xu2025copyrightprotectionlargelanguage,
-      title={Copyright Protection for Large Language Models: A Survey of Methods, Challenges, and Trends}, 
-      author={Zhenhua Xu and Xubin Yue and Zhebo Wang and Qichen Liu and Xixiang Zhao and Jingxuan Zhang and Wenjun Zeng and Wengpeng Xing and Dezhang Kong and Changting Lin and Meng Han},
-      year={2025},
-      eprint={2508.11548},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR},
-      url={https://arxiv.org/abs/2508.11548}, 
+@article{kong2025survey,
+  title={A survey of llm-driven ai agent communication: Protocols, security risks, and defense countermeasures},
+  author={Kong, Dezhang and Lin, Shi and Xu, Zhenhua and Wang, Zhebo and Li, Minghao and Li, Yufeng and Zhang, Yilun and Peng, Hujin and Sha, Zeyang and Li, Yuyuan and others},
+  journal={arXiv preprint arXiv:2506.19676},
+  year={2025}
 }
 ```
-
-</details>
 
 <hr/>
 
 <p align="center" style="font-size:1.1rem;">
-  ⭐️ If you find this project helpful, please consider <a href="https://github.com/theshi-1128/awesome-agent-communication-security" target="_blank"><b>starring us on GitHub</b></a>!<br>
   <b>For questions or suggestions:</b> <a href="mailto:xuzhenhua0326@zju.edu.cn">xuzhenhua0326@zju.edu.cn</a>
 </p>
