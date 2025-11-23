@@ -145,6 +145,6 @@ We welcome contributions! Feel free to <a href="https://github.com/Xuzhenhua55/a
 <hr/>
 
 <p align="center" style="font-size:1.1rem;">
-  ⭐️ If you find this project helpful, please consider <a href="https://github.com/Xuzhenhua55/awesome-llm-copyright-protection" target="_blank"><b>starring us on GitHub</b></a>!<br>
+  ⭐️ If you find this project helpful, please consider <a href="https://github.com/theshi-1128/awesome-agent-communication-security" target="_blank"><b>starring us on GitHub</b></a>!<br>
   <b>For questions or suggestions:</b> <a href="mailto:xuzhenhua0326@zju.edu.cn">xuzhenhua0326@zju.edu.cn</a>
 </p>
