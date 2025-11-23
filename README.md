@@ -107,5 +107,5 @@ We welcome contributions! Feel free to <a href="https://github.com/theshi-1128/a
 <hr/>
 
 <p align="center" style="font-size:1.1rem;">
-  <b>For questions or suggestions:</b> <a href="mailto:linshizjsu@gmail.com">linshizjsu@gmail.com</a> </b> <a href="mailto:kdz@zju.edu.cn">kdz@zju.edu.cn</a>
+  <b>For questions or suggestions:</b> <a href="mailto:linshizjsu@gmail.com">linshizjsu@gmail.com</a>, </b> <a href="mailto:kdz@zju.edu.cn">kdz@zju.edu.cn</a>
 </p>
