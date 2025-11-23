@@ -26,7 +26,7 @@ In recent years, Large-Language-Model-driven AI agents have exhibited unpreceden
 
 To help researchers rapidly grasp this emerging yet critical topic and advance future agent communication development, this paper presents a comprehensive survey of agent communication security:
 
-- **Clear Conceptualization:** We provide the first precise and unified definition of agent communication.
+- 🧭**Clear Conceptualization:** We provide the first precise and unified definition of agent communication.
 
 - **Systematic Taxonomy:** We introduce a framework that classifies agent communication into three categories and describe a three-layer communication architecture to explain how each category operates.
 
