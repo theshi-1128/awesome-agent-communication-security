@@ -115,8 +115,7 @@ Our ultimate goal is to present a comprehensive pipeline of copyright protection
 
 <h2>🤝 Contributing</h2>
 <p>
-We welcome contributions!<br>
-Feel free to <a href="https://github.com/Xuzhenhua55/awesome-llm-copyright-protection/issues">open an issue</a> or submit a pull request.
+We welcome contributions! Feel free to <a href="https://github.com/Xuzhenhua55/awesome-llm-copyright-protection/issues">open an issue</a> or submit a pull request.
 </p>
 
 <hr/>
