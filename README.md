@@ -25,10 +25,15 @@ In recent years, Large-Language-Model-driven AI agents have exhibited unpreceden
 <p align="justify">
 To help researchers quickly figure out this promising topic and benefit the future agent communication development, this paper presents a comprehensive survey of agent communication security. 
   - More precisely, we present the first clear definition of agent communication. 
-  - Besides, we propose a framework that categorizes agent communication into three classes and uses a three-layered communication architecture to illustrate how each class works. 
-  -  Next, for each communication class, we dissect related communication protocols and analyze the security risks, illustrating which communication layer the risks arise from. 
-  - Then, we provide an outlook on the possible defense countermeasures for each risk. 
-  - In addition, we conduct experiments using MCP and A2A to help readers better understand the novel vulnerabilities brought by agent communication. 
+  
+  - Besides, we propose a framework that categorizes agent communication into three classes and uses a three-layered communication architecture to illustrate how each class works.
+  - 
+  - Next, for each communication class, we dissect related communication protocols and analyze the security risks, illustrating which communication layer the risks arise from.
+  - 
+  - Then, we provide an outlook on the possible defense countermeasures for each risk.
+  - 
+  - In addition, we conduct experiments using MCP and A2A to help readers better understand the novel vulnerabilities brought by agent communication.
+  - 
   - Finally, we discuss open issues and future directions in this promising research field. 
 </p>
 
