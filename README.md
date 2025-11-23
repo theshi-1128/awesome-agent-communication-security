@@ -22,38 +22,16 @@ A curated collection of research and techniques for protecting the intellectual 
 <h2>📝 Abstract</h2>
 
 <p align="justify">
-Copyright protection for large language models is of critical importance, given their substantial development costs, proprietary value, and potential for misuse. Existing surveys have predominantly focused on techniques for tracing LLM-generated content—namely, text watermarking—while a systematic exploration of methods for protecting the models themselves (i.e., model watermarking and model fingerprinting) remains absent. Moreover, the relationships and distinctions among text watermarking, model watermarking, and model fingerprinting have not been comprehensively clarified.
+In recent years, Large-Language-Model-driven AI agents have exhibited unprecedented intelligence and adaptability. Nowadays, agents are undergoing a new round of evolution. They no longer act as an isolated island like LLMs. Instead, they start to communicate with diverse external entities, such as other agents and tools, to perform more complex tasks collectively. Under this trend, agent communication is regarded as a foundational pillar of the future AI ecosystem, and many organizations have intensively begun to design related communication protocols (e.g., Anthropic's MCP and Google's A2A) within the past year. However, this new field exposes significant security hazards, which can cause severe damage to real-world scenarios. 
 </p>
 
 <p align="justify">
-This work presents a comprehensive survey of the current state of LLM copyright protection technologies, with a focus on model fingerprinting, covering the following aspects:
+To help researchers quickly figure out this promising topic and benefit the future agent communication development, this paper presents a comprehensive survey of agent communication security. More precisely, we present the first clear definition of agent communication. Besides, we propose a framework that categorizes agent communication into three classes and uses a three-layered communication architecture to illustrate how each class works. Next, for each communication class, we dissect related communication protocols and analyze the security risks, illustrating which communication layer the risks arise from. Then, we provide an outlook on the possible defense countermeasures for each risk. In addition, we conduct experiments using MCP and A2A to help readers better understand the novel vulnerabilities brought by agent communication. Finally, we discuss open issues and future directions in this promising research field. 
 </p>
 
-<div align="justify">
-  <ol>
-    <li>
-      Clarifies the conceptual connection from text watermarking to model watermarking and fingerprinting, and adopts a unified terminology that incorporates model watermarking into the broader fingerprinting framework.
-    </li>
-    <li>
-      Provides an overview and comparison of diverse text watermarking techniques, highlighting cases where such methods can function as model fingerprinting.
-    </li>
-    <li>
-      Systematically categorizes and compares existing model fingerprinting approaches for LLM copyright protection.
-    </li>
-    <li>
-      Presents, for the first time, techniques for fingerprint transfer and fingerprint removal.
-    </li>
-    <li>
-      Summarizes evaluation metrics for model fingerprints, including effectiveness, harmlessness, robustness, stealthiness, and reliability.
-    </li>
-    <li>
-      Discusses open challenges and future research directions.
-    </li>
-  </ol>
-</div>
 
 <p align="justify">
-This survey aims to offer researchers a thorough understanding of both text watermarking and model fingerprinting technologies in the era of LLMs, thereby fostering further advances in protecting their intellectual property. We will continue to maintain and update this curated list of related papers and resources in this repository.
+We will continue to maintain and update this curated list of related papers and resources in this repository.
 </p>
 
 <hr/>
