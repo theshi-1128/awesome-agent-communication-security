@@ -59,7 +59,7 @@ We will continue to maintain and update this curated list of related papers and 
   <thead>
     <tr>
       <th style="text-align:center;">
-        Layer ↓ / Mode → 
+        Layers ↓ / Classes → 
       </th>
       <th style="text-align:center;">User ↔ Agent</th>
       <th style="text-align:center;">Agent ↔ Agent</th>
@@ -70,7 +70,7 @@ We will continue to maintain and update this curated list of related papers and 
   <tbody>
     <!-- Protocol row -->
     <tr>
-      <th style="text-align:center;">Protocol (Mode-level)</th>
+      <th style="text-align:center;">Protocol</th>
       <td><a href="collection/paper&report/user-agent-interaction/protocols/user-agent-interaction-protocols.md">User-Agent-Interaction-Protocols</a></td>
       <td>
         <a href="collection/paper&report/agent-agent-communication/protocols/cs-based-communication-protocols.md">CS-based</a>,
@@ -144,6 +144,7 @@ We will continue to maintain and update this curated list of related papers and 
 
   </tbody>
 </table>
+
 
 
 
