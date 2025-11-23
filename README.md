@@ -52,11 +52,7 @@ We will continue to maintain and update this curated list of related papers and 
 <hr/>
 
 ## 📘 Collections
-- [Book](collection/book.md) (3)
-- [Competition](collection/competition.md) (5)
-- [Leaderboard](collection/leaderboard.md) (3)
-- [Toolkit](collection/toolkit.md) (10)
-- [Survey](collection/survey.md) (35)
+- [Survey](collection/survey.md)
 - Paper (1467)
     - A. Safety (806)
         - [A0. General](collection/paper/safety/general.md) (22)
