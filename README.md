@@ -93,90 +93,20 @@ We will continue to maintain and update this curated list of related papers and 
 <hr/>
 -->
 
+## 🧩 Communication–Layer Collections Matrix
 
-## 🧩 Communication–Layer Matrix Overview
 
-<table>
-<tr>
-  <th align="center">Layer ↓ / Mode →</th>
-  <th align="center">User ↔ Agent</th>
-  <th align="center">Agent ↔ Agent</th>
-  <th align="center">Agent ↔ Environment</th>
-</tr>
+| **Layer ↓ / Mode →** | **User ↔ Agent** | **Agent ↔ Agent** | **Agent ↔ Environment** |
+|----------------------|------------------|-------------------|--------------------------|
+| **Protocol (Mode-level)** | [User-Agent-Interaction-Protocols](collection/paper&report/user-agent-interaction/protocols/user-agent-interaction-protocols.md) | [CS-based](collection/paper&report/agent-agent-communication/protocols/cs-based-communication-protocols.md), [P2P-based](collection/paper&report/agent-agent-communication/protocols/p2p-based-communication-protocols.md), [Hybrid](collection/paper&report/agent-agent-communication/protocols/hybrid-communication-protocols.md) | [Agent-Environment-Communication-Protocols](collection/paper&report/agent-environment-communication/protocols/agent-environment-communication-protocols.md) |
+| **🔵 L1 — Transmission Layer** | **Risks** <br>• [Risks-from-L1](collection/paper&report/user-agent-interaction/risks/risks-from-L1.md) <br><br> **Defenses** <br>• [Defenses-on-L1](collection/paper&report/user-agent-interaction/defenses/defenses-on-L1.md) | **Risks** <br>• [Risks-from-L1](collection/paper&report/agent-agent-communication/risks/risks-from-L1.md) <br><br> **Defenses** <br>• [Defenses-on-L1](collection/paper&report/agent-agent-communication/defenses/defenses-on-L1.md) | **Risks** <br>• [Risks-from-L1](collection/paper&report/agent-environment-communication/risks/risks-from-L1.md) <br><br> **Defenses** <br>• [Defenses-on-L1](collection/paper&report/agent-environment-communication/defenses/defenses-on-L1.md) |
+| **🟣 L2 — Semantics Layer** | **Risks** <br>• [Risks-from-L2](collection/paper&report/user-agent-interaction/risks/risks-from-L2.md) <br><br> **Defenses** <br>• [Defenses-on-L2](collection/paper&report/user-agent-interaction/defenses/defenses-on-L2.md) | **Risks** <br>• [Risks-from-L2](collection/paper&report/agent-agent-communication/risks/risks-from-L2.md) <br><br> **Defenses** <br>• [Defenses-on-L2](collection/paper&report/agent-agent-communication/defenses/defenses-on-L2.md) | **Risks** <br>• [Risks-from-L2](collection/paper&report/agent-environment-communication/risks/risks-from-L2.md) <br><br> **Defenses** <br>• [Defenses-on-L2](collection/paper&report/agent-environment-communication/defenses/defenses-on-L2.md) |
+| **🔶 L3 — Orchestration Layer** | **Risks** <br>• [Risks-from-L3](collection/paper&report/user-agent-interaction/risks/risks-from-L3.md) <br><br> **Defenses** <br>• [Defenses-on-L3](collection/paper&report/user-agent-interaction/defenses/defenses-on-L3.md) | **Risks** <br>• [Risks-from-L3](collection/paper&report/agent-agent-communication/risks/risks-from-L3.md) <br><br> **Defenses** <br>• [Defenses-on-L3](collection/paper&report/agent-agent-communication/defenses/defenses-on-L3.md) | **Risks** <br>• [Risks-from-L3](collection/paper&report/agent-environment-communication/risks/risks-from-L3.md) <br><br> **Defenses** <br>• [Defenses-on-L3](collection/paper&report/agent-environment-communication/defenses/defenses-on-L3.md) |
 
-<tr>
-  <td><b>🔵 L1 — Transmission Layer</b></td>
-  <td>
-    <b>Protocols</b><br>
-    • <a href="">User-Agent-Interaction-Protocols</a><br><br>
-    <b>Risks</b><br>
-    • <a href="">Risks-from-L1</a><br><br>
-    <b>Defenses</b><br>
-    • <a href="">Defenses-on-L1</a>
-  </td>
-  <td>
-    <b>Protocols</b><br>
-    • CS / P2P / Hybrid / Other<br><br>
-    <b>Risks</b><br>
-    • <a href="">Risks-from-L1</a><br><br>
-    <b>Defenses</b><br>
-    • <a href="">Defenses-on-L1</a>
-  </td>
-  <td>
-    <b>Protocols</b><br>
-    • <a href="">Agent-Environment-Communication-Protocols</a><br><br>
-    <b>Risks</b><br>
-    • <a href="">Risks-from-L1</a><br><br>
-    <b>Defenses</b><br>
-    • <a href="">Defenses-on-L1</a>
-  </td>
-</tr>
 
-<tr>
-  <td><b>🟣 L2 — Semantics Layer</b></td>
-  <td>
-    <b>Risks</b><br>
-    • <a href="">Risks-from-L2</a><br><br>
-    <b>Defenses</b><br>
-    • <a href="">Defenses-on-L2</a>
-  </td>
-  <td>
-    <b>Risks</b><br>
-    • <a href="">Risks-from-L2</a><br><br>
-    <b>Defenses</b><br>
-    • <a href="">Defenses-on-L2</a>
-  </td>
-  <td>
-    <b>Risks</b><br>
-    • <a href="">Risks-from-L2</a><br><br>
-    <b>Defenses</b><br>
-    • <a href="">Defenses-on-L2</a>
-  </td>
-</tr>
 
-<tr>
-  <td><b>🔶 L3 — Orchestration Layer</b></td>
-  <td>
-    <b>Risks</b><br>
-    • <a href="">Risks-from-L3</a><br><br>
-    <b>Defenses</b><br>
-    • <a href="">Defenses-on-L3</a>
-  </td>
-  <td>
-    <b>Risks</b><br>
-    • <a href="">Risks-from-L3</a><br><br>
-    <b>Defenses</b><br>
-    • <a href="">Defenses-on-L3</a>
-  </td>
-  <td>
-    <b>Risks</b><br>
-    • <a href="">Risks-from-L3</a><br><br>
-    <b>Defenses</b><br>
-    • <a href="">Defenses-on-L3</a>
-  </td>
-</tr>
 
-</table>
+
 
 
 
