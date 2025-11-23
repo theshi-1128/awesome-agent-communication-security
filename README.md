@@ -56,7 +56,7 @@ We will continue to maintain and update this curated list of related papers and 
 - Paper&Report
     - A. User-Agent Interaction
         - Protocols
-            - [User-Agent Interaction Protocols](collection/paper&report/user-agent-interaction/protocols/user-agent-interaction-protocols.md)
+            - [User-Agent-Interaction-Protocols](collection/paper&report/user-agent-interaction/protocols/user-agent-interaction-protocols.md)
         - Risks
         - Defenses
     - B. Agent-Agent Communication
