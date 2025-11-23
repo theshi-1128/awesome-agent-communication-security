@@ -134,7 +134,7 @@ We will continue to maintain and update this curated list of related papers and 
 </table>
 
 
-
+<hr/>
 
 <h2>🌟 Features</h2>
 
@@ -147,8 +147,29 @@ We will continue to maintain and update this curated list of related papers and 
 
 
 
+<hr/>
+
+<h2>🧰 Related Tools: Secure LLM Deployment</h2>
+
+<p align="justify">
+To support practical, end-to-end secure deployment of LLM-based agent systems, we have also developed an open-source security toolchain that is specifically designed for the secure deployment of LLMs, supporting features such as firewalls, access control, reverse proxy, and automatic blocking.
+</p>
+
+  <a href="https://github.com/IFRC-ZJU-Edu/SafeLLMDeploy">
+    <img src="https://img.shields.io/badge/GitHub-Secure%20LLM%20Deployment-black?logo=github" height="28"/>
+  </a>
+  <a href="https://github.com/IFRC-ZJU-Edu/SafeLLMDeploy/stargazers">
+    <img src="https://img.shields.io/github/stars/IFRC-ZJU-Edu/SafeLLMDeploy?color=yellow" height="28"/>
+  </a>
+  <a href="https://github.com/IFRC-ZJU-Edu/SafeLLMDeploy/issues">
+    <img src="https://img.shields.io/badge/Issues-Welcome-blue" height="28"/>
+  </a>
+
+
 
 <hr/>
+
+
 
 <h2>🤝 Contributing</h2>
 <p>
