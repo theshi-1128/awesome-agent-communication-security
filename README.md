@@ -32,7 +32,7 @@ We will continue to maintain and update this curated list of related papers and 
 </p>
 
 <p align="center">
-  <img src="agentcommunication.pdf" width="900"/>
+  <img src="agentcommunication.pdf" width="600"/>
 </p>
 
 <hr/>
