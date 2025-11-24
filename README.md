@@ -73,16 +73,16 @@ We will continue to maintain and update this curated list of related papers and 
 <tr>
   <th style="text-align:center;">🔵 L1 — Data Transmission Layer</th>
   <td>
-    <div><b>⚠️ </b> <a href="collection/paper&report/user-agent-interaction/risks/risks-from-L1.md">Risks-from-L1</a></div>
-    <div><b>🛡️ </b> <a href="collection/paper&report/user-agent-interaction/defenses/defenses-on-L1.md">Defenses-on-L1</a></div>
+    <div><b>⚠️ </b> <a href="collection/paper&report/user-agent-interaction/risks/risks-from-L1.md">Risks (attacks)</a></div>
+    <div><b>🛡️ </b> <a href="collection/paper&report/user-agent-interaction/defenses/defenses-on-L1.md">Defenses</a></div>
   </td>
   <td>
-    <div><b>⚠️ </b> <a href="collection/paper&report/agent-agent-communication/risks/risks-from-L1.md">Risks-from-L1</a></div>
-    <div><b>🛡️ </b> <a href="collection/paper&report/agent-agent-communication/defenses/defenses-on-L1.md">Defenses-on-L1</a></div>
+    <div><b>⚠️ </b> <a href="collection/paper&report/agent-agent-communication/risks/risks-from-L1.md">Risks (attacks)</a></div>
+    <div><b>🛡️ </b> <a href="collection/paper&report/agent-agent-communication/defenses/defenses-on-L1.md">Defenses</a></div>
   </td>
   <td>
-    <div><b>⚠️ </b> <a href="collection/paper&report/agent-environment-communication/risks/risks-from-L1.md">Risks-from-L1</a></div>
-    <div><b>🛡️ </b> <a href="collection/paper&report/agent-environment-communication/defenses/defenses-on-L1.md">Defenses-on-L1</a></div>
+    <div><b>⚠️ </b> <a href="collection/paper&report/agent-environment-communication/risks/risks-from-L1.md">Risks (attacks)</a></div>
+    <div><b>🛡️ </b> <a href="collection/paper&report/agent-environment-communication/defenses/defenses-on-L1.md">Defenses</a></div>
   </td>
 </tr>
 
