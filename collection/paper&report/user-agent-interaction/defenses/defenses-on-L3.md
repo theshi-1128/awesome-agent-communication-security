@@ -28,3 +28,7 @@
 ## D3: Defense for Privacy Violation
 - [2021/03] **[IdentityDP: Differential Private Identification Protection for Face Images](https://link.springer.com/chapter/10.1007/978-3-031-58222-6_5)**
 - [2024/09] **[GenTel-Safe: A Unified Benchmark and Shielding Framework for Defending Against Prompt Injection Attacks](https://arxiv.org/abs/2409.19521)**
+
+## D4: Behavior Auditing and Restrictions
+
+## D5: Capability Boundary Control
