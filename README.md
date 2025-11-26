@@ -59,6 +59,7 @@ We will continue to maintain and update this curated list of related papers and 
 ## 🧩 Communication–Layer Collections Matrix
 **Note**: Due to the forward-looking nature of this paper, the risks and defenses we mentioned include both **the proposed ones** and **potential directions that have not been studied**. As a result, some risks/defense may lack a concrete list of papers, we hope our paper can inspire these directions.
 
+
 <table>
   <thead>
     <tr>
@@ -158,6 +159,10 @@ We will continue to maintain and update this curated list of related papers and 
 <p>
 Agent communication security is a hot, rapidly evolving field. As a result, if your paper is relevant but not included, please feel free to <a href="https://github.com/theshi-1128/awesome-agent-communication-security/issues">open an issue</a> or submit a pull request.
 </p>
+
+Please specify the following characteristics of your papers:
+- agent communication class: protocols/attacks/defense.
+- communication layer: L1/L2/L3.
 
 <hr/>
 
