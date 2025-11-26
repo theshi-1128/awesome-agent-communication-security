@@ -57,7 +57,7 @@ We will continue to maintain and update this curated list of related papers and 
 
 
 ## 🧩 Communication–Layer Collections Matrix
-**Note**: Due to the forward-looking nature of this paper, the risks and defenses we mentioned include both **uncovered attacks** and **potential attacks that have not been studied**. As a result, some risks/defense may lack a concrete list of papers, we hope our paper can inspire these directions.
+**Note**: Due to the forward-looking nature of this paper, the risks and defenses we mentioned include both **the proposed ones** and **potential directions that have not been studied**. As a result, some risks/defense may lack a concrete list of papers, we hope our paper can inspire these directions.
 
 <table>
   <thead>
