@@ -1,5 +1,5 @@
 # Risks from L2
-**Note**: Due to the forward-looking nature of this paper, the risks and defenses we mentioned include both **the proposed ones** and **potential directions that have not been studied**. As a result, some risks/defenses may lack a concrete list of papers, we hope our paper can inspire these directions.
+**Note**: Due to the forward-looking nature of this paper, the risks we mentioned include both **the proposed ones** and **potential directions that have not been studied**. As a result, some risks may lack a concrete list of papers, we hope our paper can inspire these directions.
 ## R1: Agent Spoofing
 - [2025/03] **[SSL.com Vulnerability Allowed Fraudulent SSL Certificates for Major Domains](https://hackread.com/ssl-com-vulnerability-fraud-ssl-certificates-domains/)**
 - [2025/05] **[From Glue-Code to Protocols: A Critical Analysis of A2A and MCP Integration for Scalable Agent Systems](https://arxiv.org/abs/2505.03864)**
