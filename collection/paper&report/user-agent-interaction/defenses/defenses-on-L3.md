@@ -1,5 +1,5 @@
 # Defenses on L3
-
+**Note**: Due to the forward-looking nature of this paper, the defenses we mentioned include both **the proposed ones** and **potential directions that have not been studied**. As a result, some defenses may lack a concrete list of papers, we hope our paper can inspire these directions.
 ## D1: Defense for Text-based Attacks
 - [2024/02] **[Defending LLMs against Jailbreaking Attacks via Backtranslation](https://arxiv.org/abs/2402.16459)**
 - [2024/01] **[Intention Analysis Makes LLMs A Good Jailbreak Defender](https://aclanthology.org/2025.coling-main.199/)**
