@@ -34,11 +34,13 @@ To help researchers rapidly grasp this emerging yet critical topic and advance f
 
 - 🏗️ **Systematic Taxonomy:** We introduce a framework that classifies agent communication into three categories and describe a three-layer communication architecture to explain how each category operates.
 
-- ⚠️ **Risk Analysis:** For each communication class, we dissect representative communication protocols and analyze the associated security risks, indicating the communication layer in which each risk originates.
+- 🏗️ **Protocols Classification:** WFor each communication class, we dissect representative communication protocols and classify them according to their features.
 
-- 🛡️ **Defensive Outlook:** We discuss potential defense strategies tailored to each identified risk.
+- ⚠️ **Risk Analysis/Prospect:** For each communication class, we analyze the associated security risks, indicating the communication layer in which each risk originates. We not only collect the published ones but also analyze **the potential risks that have not been studied in time.**
 
-- 🔍 **Empirical Demonstration:** We further conduct experiments on MCP and A2A to reveal novel vulnerabilities arising in real agent communication systems.
+- 🛡️ **Defensive Outlook:** For each risk, We not only summarize the published defenses but also analyze **the potential countermeasures that have not been studied in time.**
+
+- 🔍 **Empirical Demonstration:** We conduct experiments on MCP and A2A to reveal novel vulnerabilities arising in real agent communication systems.
 
 - 🚀 **Future Directions:** Finally, we outline open challenges and promising research opportunities in this rapidly evolving field.
 
