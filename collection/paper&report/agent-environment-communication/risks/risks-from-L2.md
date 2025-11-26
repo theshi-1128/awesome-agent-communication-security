@@ -7,6 +7,7 @@
 - [2025/05] **[Mcp guardian: A security-first layer for safeguarding mcp-based ai system.](https://arxiv.org/abs/2504.12757)**
 - [2025/04] **[Mcp safety audit: Llms with the model context protocol allow major security exploits](https://arxiv.org/abs/2504.03767)**
 - [2025/06] **[Beyond the protocol: Unveiling attack vectors in the model context protocol ecosystem. ](https://www.researchgate.net/profile/Yiming-Shen-9/publication/392371347_Beyond_the_Protocol_Unveiling_Attack_Vectors_in_the_Model_Context_Protocol_Ecosystem/links/685aa8ae07d6d53e82ee1b72/Beyond-the-Protocol-Unveiling-Attack-Vectors-in-the-Model-Context-Protocol-Ecosystem.pdf)**
+- [2025/07] **[Optimizing and Attacking Embodied Intelligence: Instruction Decomposition and Adversarial Robustness](https://ieeexplore.ieee.org/document/11209370)**
 - [2025/08] **[Livemcpbench: Can agents navigate an ocean of mcp tools?](https://arxiv.org/abs/2508.01780)**
 - [2025/08] **[Attractive metadata attack: Inducing llm agents to invoke malicious tools. ](https://arxiv.org/abs/2508.02110)**
 - [2025/08] **[Prompt injection attack to tool selection in llm agents.](https://arxiv.org/abs/2504.19793)**
