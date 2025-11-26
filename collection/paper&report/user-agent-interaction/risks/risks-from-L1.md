@@ -1,5 +1,5 @@
 # Risks from L1
-**Note**: Due to the forward-looking nature of this paper, the risks and defenses we mentioned include both **the proposed ones** and **potential directions that have not been studied**. As a result, some risks/defenses may lack a concrete list of papers, we hope our paper can inspire these directions.
+**Note**: Due to the forward-looking nature of this paper, the risks we mentioned include both **the proposed ones** and **potential directions that have not been studied**. As a result, some risks may lack a concrete list of papers, we hope our paper can inspire these directions.
 
 ## R1: Violations of Confidentiality
 - [2022/05] **[An empirical assessment of security and privacy risks of web-based chatbots](https://arxiv.org/abs/2205.08252)**
