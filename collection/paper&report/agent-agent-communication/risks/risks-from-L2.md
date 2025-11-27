@@ -4,7 +4,8 @@
 - [2025/03] **[SSL.com Vulnerability Allowed Fraudulent SSL Certificates for Major Domains](https://hackread.com/ssl-com-vulnerability-fraud-ssl-certificates-domains/)**
 - [2025/05] **[From Glue-Code to Protocols: A Critical Analysis of A2A and MCP Integration for Scalable Agent Systems](https://arxiv.org/abs/2505.03864)**
 - [2025/06] **[Demonstrations of Integrity Attacks in Multi-Agent Systems](https://arxiv.org/abs/2506.04572)**
-
+- [2025/04] **[Building a secure agentic AI application leveraging A2A protocol](https://arxiv.org/abs/2504.16902)**
+- 
 ## R2: Agent Exploitation/Trojan
 - [2025/05] **[From Glue-Code to Protocols: A Critical Analysis of A2A and MCP Integration for Scalable Agent Systems](https://arxiv.org/abs/2505.03864)**
 
