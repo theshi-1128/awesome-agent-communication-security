@@ -58,7 +58,7 @@ We will continue to maintain and update this curated list of related papers and 
 <hr/>
 
 
-## 🧩 Communication–Layer Collections Matrix
+## 🧩 Related Work Matrix
 **Note**: Due to the forward-looking nature of this paper, the risks and defenses we mentioned include both **the proposed ones** and **potential directions that have not been studied**. As a result, some risks/defense may lack a concrete list of papers, we hope our paper can inspire these directions.
 
 
