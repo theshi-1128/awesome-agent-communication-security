@@ -30,17 +30,17 @@ In recent years, LLM-driven AI agents have exhibited unprecedented intelligence 
 
 To help researchers rapidly grasp this emerging yet critical topic and advance future agent communication development, this paper presents a comprehensive survey of agent communication security:
 
-- 🧭 **Clear Conceptualization:** We provide the first precise and unified definition of agent communication.
+- 🧭 **New Conceptualization:** We provide the first precise and unified definition of LLM-driven agent communication.
 
-- 🏗️ **Systematic Taxonomy:** We introduce a unique 3*3 framework that classifies agent communication into three categories and describe a three-layer communication architecture to explain how each category operates.
+- 🏗️ **Novel Systematic Taxonomy:** We introduce a unique 3*3 framework that classifies agent communication into three categories and describe a three-layer communication architecture to explain how each category operates.
 
-- 🏗️ **Protocols Classification:** WFor each communication class, we dissect representative communication protocols and classify them according to their features.
+    - 🏗️ **Protocols Classification:** WFor each communication class, we dissect representative communication protocols and classify them according to their features.
 
-- ⚠️ **Risk Analysis/Prospect:** For each communication class, we analyze the associated security risks, indicating the communication layer in which each risk originates. We not only collect the published ones but also analyze **the potential risks that have not been studied in time.**
+    - ⚠️ **Risk Analysis/Prospect:** For each communication class, we analyze the associated security risks, indicating the communication layer in which each risk originates. We not only collect the published ones but also analyze **the potential risks that have not been studied in time.**
 
-- 🛡️ **Defensive Outlook:** For each risk, We not only summarize the published defenses but also analyze **the potential countermeasures that have not been studied in time.**
+    - 🛡️ **Defensive Outlook:** For each risk, We not only summarize the published defenses but also analyze **the potential countermeasures that have not been studied in time.**
 
-- 🔍 **Empirical Demonstration:** We conduct experiments on MCP and A2A to reveal novel vulnerabilities arising in real agent communication systems.
+- 🔍 **Empirical Demonstration:** We conduct experiments on **MCP** and **A2A** to reveal novel vulnerabilities arising in real agent communication systems.
 
 - 🚀 **Future Directions:** Finally, we outline open challenges and promising research opportunities in this rapidly evolving field.
 
