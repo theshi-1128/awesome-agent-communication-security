@@ -6,6 +6,7 @@
 - [2024/08] **[On the resilience of multi-agent systems with malicious agents](https://arxiv.org/abs/2408.00989)**
 - [2024/10] **[Prompt infection: Llm-to-llm prompt injection within multi-agent systems](https://arxiv.org/abs/2410.07283)**
 - [2025/03] **[Agents Under Siege: Breaking Pragmatic Multi-Agent LLM Systems with Optimized Prompt Attacks](https://arxiv.org/abs/2504.00218)**
+- [2025/09] **[Disagreements in Reasoning: How a Model's Thinking Process Dictates Persuasion in Multi-Agent Systems](https://arxiv.org/abs/2509.21054)**
 
 ## R2: Privacy Leakage
 - [2025/03] **[Prompt flow integrity to prevent privilege escalation in llm agents](https://arxiv.org/abs/2503.15547)**
