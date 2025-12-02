@@ -158,7 +158,7 @@ To help researchers rapidly grasp this emerging yet critical topic and advance f
 
 <h2>🤝 Submitting Your Papers</h2>
 <p>
-Agent communication security is a hot, rapidly evolving field. As a result, if your paper is relevant but not included, please feel free to <a href="https://github.com/theshi-1128/awesome-agent-communication-security/issues">open an issue</a> or submit a pull request. <b>Since our paper is garnering citations rapidly, <span style="color:red">submitting your paper will help your work gain higher exposure.</span></b>
+Agent communication security is a hot, rapidly evolving field. As a result, if your paper is relevant but not included, please feel free to <a href="https://github.com/theshi-1128/awesome-agent-communication-security/issues">open an issue</a> or submit a pull request. <b>Since our paper is garnering citations rapidly,</b> <span style="color:red">submitting your paper will help your work gain higher exposure.</span>
 </p>
 
  
