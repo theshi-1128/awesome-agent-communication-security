@@ -163,8 +163,9 @@ Agent communication security is a hot, rapidly evolving field. As a result, if y
 
  
 Please tell us the following characteristics of your papers:
-- agent communication class: protocols/attacks/defense.
-- communication layer: L1/L2/L3.
+- **Research Area**: communication itself/attacks/defenses.
+- **agent communication class**: user-agent/agent-agent/agent-environment.
+- **communication layer**: L1/L2/L3.
 
 <hr/>
 
