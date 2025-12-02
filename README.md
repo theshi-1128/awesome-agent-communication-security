@@ -44,7 +44,7 @@ To help researchers rapidly grasp this emerging yet critical topic and advance f
 
 - 🚀 **Future Directions:** Finally, we outline open challenges and promising research opportunities in this rapidly evolving field.
 
--  **Contunuous Update:** We will continue to maintain and update this curated list of related papers and resources in this repository.
+-  **Continuous Update:** We will continue to maintain and update this curated list of related papers and resources in this repository.
 
 </p>
 
